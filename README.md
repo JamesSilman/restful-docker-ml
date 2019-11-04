@@ -9,3 +9,7 @@ fastapi
 uvicorn
 
 textblob
+
+## Run REST service
+
+From within the _app_ dir run the following command: uvicorn main:app --reload
