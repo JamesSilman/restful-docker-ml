@@ -1,4 +1,4 @@
-# RESTFIL-DOCKER-ML
+# RESTFUL-DOCKER-ML
 Docker container with a REST service to provide ML &amp; OSINT 
 
 ## Requirements
