@@ -1,0 +1,9 @@
+cmake
+face_recognition
+numpy
+uvicorn
+python-multipart
+opencv-python
+textblob
+email-validator
+mysql-connector-python

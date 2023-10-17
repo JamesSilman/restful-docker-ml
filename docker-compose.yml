@@ -1,0 +1,13 @@
+version: '3'
+services:
+  rest:
+    build: ./rest/
+    ports:
+      - "80:80"
+    environment:
+      PG_HOST: sql
+      PG_PORT: 3306
+  sql:
+    build: ./sql/
+    ports:
+      - "3306:3306"
